@@ -1,0 +1,5 @@
+Dear user;
+
+This is an simple mail which is sent by Python script program automatically.
+
+Have a nice day!
