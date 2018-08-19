@@ -8,7 +8,7 @@ This is an Python3 script code which sends the mail automatically. You can send 
 
 ### REQUIREMENTS
 
-- Python3.6
+- Python 3.6
 - email (Python library)
 
 ### NOTES
