@@ -9,7 +9,7 @@
                2) You must change the "from_address" with your mail address.
                3) You must write your "password"
                4) The most important things is that you must allow "less secure apps" on your gmail account.
-               The link to allow : "
+               The link to allow : https://myaccount.google.com/lesssecureapps"
 """
 
 import smtplib
